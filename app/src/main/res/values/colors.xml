@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores originales del tema -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores personalizados para el login -->
+    <color name="purple_background">#4A148C</color>
+    <color name="orange_accent">#FF8C00</color>
+    <color name="input_background">#F5F5F5</color>
+    <color name="input_hint">#80000000</color>
+
+    <!-- Gradiente del botón -->
+    <color name="orange_start">#FF8C00</color>
+    <color name="orange_end">#FF6B00</color>
+
+</resources>
