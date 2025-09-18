@@ -10,6 +10,31 @@
     android:gravity="center"  android:padding="32dp"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:layout_width="211dp"
+        android:layout_height="202dp"
+        android:layout_marginBottom="40dp"
+        android:contentDescription="Bus icon"
+        android:src="@drawable/ic_bus" />
 
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Transporte Inteligente"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/subtitle_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tu ruta más cerca de ti"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
 
 </LinearLayout>
