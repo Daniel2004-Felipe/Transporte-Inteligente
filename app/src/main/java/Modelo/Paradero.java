@@ -1,5 +1,6 @@
 package Modelo;
 
+<<<<<<< HEAD
 
 // Clase Paraderos
 public class Paradero {
@@ -74,4 +75,7 @@ public class Paradero {
                 ", lon=" + lon +
                 '}';
     }
+=======
+public class Paradero {
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d
 }

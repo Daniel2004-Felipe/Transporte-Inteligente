@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d
 plugins {
     alias(libs.plugins.android.application)
 }
@@ -34,13 +37,17 @@ android {
     }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d
 dependencies {
 
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
+<<<<<<< HEAD
     implementation(libs.play.services.location)
     implementation(libs.volley)
     testImplementation(libs.junit)
@@ -50,3 +57,9 @@ dependencies {
     implementation("org.osmdroid:osmdroid-android:6.1.14")
     implementation("org.osmdroid:osmdroid-wms:6.1.14")
 }
+=======
+    testImplementation(libs.junit)
+    androidTestImplementation(libs.ext.junit)
+    androidTestImplementation(libs.espresso.core)
+}
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d

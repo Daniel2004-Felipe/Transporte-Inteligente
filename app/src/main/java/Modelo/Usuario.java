@@ -1,6 +1,7 @@
 package Modelo;
 
 public class Usuario {
+<<<<<<< HEAD
 
     private int id;
     private String nombre;
@@ -55,3 +56,6 @@ public class Usuario {
         this.password = password;
     }
 }
+=======
+}
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d

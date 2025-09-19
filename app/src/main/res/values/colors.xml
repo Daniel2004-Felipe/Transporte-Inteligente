@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <!-- Colores originales del tema -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
@@ -13,4 +14,8 @@
     <!-- Gradiente del botón -->
     <color name="orange_start">#FF8C00</color>
     <color name="orange_end">#FF6B00</color>
+=======
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d
 </resources>

@@ -1,5 +1,6 @@
 package logic;
 
+<<<<<<< HEAD
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -136,3 +137,7 @@ public class DBConnection extends SQLiteOpenHelper {
     }
 
 }
+=======
+public class DBConnection {
+}
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d

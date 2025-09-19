@@ -1,5 +1,6 @@
 package Modelo;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,3 +31,7 @@ public class Ruta {
 
 }
 
+=======
+public class Ruta {
+}
+>>>>>>> c3628db39dc62b472976c8f5187b5eb85aa3341d
